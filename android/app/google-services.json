@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41056913431",
+    "project_id": "acst-alex-iniya-flutter-app",
+    "storage_bucket": "acst-alex-iniya-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41056913431:android:41b9f142129d23db5d7452",
+        "android_client_info": {
+          "package_name": "com.acst.agenda_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41056913431-fqsgr8odcn7amojbd1jvu2d0oq1dhs5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8UFHn6Bqc50aeRMoU0Hh3PQMLeVr6QdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41056913431-fqsgr8odcn7amojbd1jvu2d0oq1dhs5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
